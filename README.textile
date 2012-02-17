@@ -1,0 +1,3 @@
+== as a showcase of nokogiri with open-uri with fastercsv,
+== as a quick and dirty solution for people wanting to grab a googleaccounted domain,
+== because it took so much place on my hdd I had to place it somewhere else.

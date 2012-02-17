@@ -28,7 +28,6 @@ domains_with_info = domains.map { |domain|
 	OpenStruct.new(:domain => domain, :online_since => online_since, :year => year)
 }.sort{|i| i.domain }
 
-
 filename = "domains_" + Time.now.strftime("%m-%d-%Y") + ".csv"
   
 csv = FasterCSV.generate do |csv|
